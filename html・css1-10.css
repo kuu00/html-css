@@ -95,15 +95,21 @@ footer {
   .box1{
     width: 90%;
     margin: 0 0 20px 0;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .box2{
     width: 90%;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .box3{
     width: 90%;
     margin: 20px 0 0 0;
+    margin-right: auto;
+    margin-left: auto;
   }
 
    footer{
